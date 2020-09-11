@@ -1,5 +1,5 @@
 # Amazon-clone
-
+The project includes 👉 React js • Firebase authentication + Deploy • Flexbox • Context API 
 LIVE DEMO - https://clone-71c7c.web.app/
 
 ## Video Demo:
