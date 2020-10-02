@@ -4,4 +4,4 @@ The project includes 👉 React js • Firebase authentication + Deploy • Flex
 
 ## Video Demo:
 
-[![Amazon Clone](http://img.youtube.com/vi/q4GMlTmVroI/0.jpg)](http://www.youtube.com/watch?v=q4GMlTmVroI "Amazon Clone")
+[![Amazon clone](http://img.youtube.com/vi/iQcNTnaCD2s/0.jpg)](http://www.youtube.com/watch?v=iQcNTnaCD2s "Amazon clone")
